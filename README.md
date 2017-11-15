@@ -89,5 +89,3 @@ FFT fftLog;
 
 
 *end*
-
-代码github：
